@@ -1,4 +1,4 @@
 #contentbackground {
-  background: url("https://media.giphy.com/media/10FzkePmCE8aGI/giphy.gif") no-repeat center center fixed;
+  background-image: url("https://media.giphy.com/media/10FzkePmCE8aGI/giphy.gif") no-repeat center center fixed;
   background-size: cover; 
 }
